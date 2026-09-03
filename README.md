@@ -66,7 +66,7 @@ CodingTest/
 │  ├─ sol.py                      # 헤더에 출처 + 힌트 게이지
 │  └─ notes.md                    # 리뷰·회고 기록
 ├─ lib/
-│  ├─ playbook/                   # 유형별 선행 학습 노트 16개
+│  ├─ playbook/                   # 파이썬 기초 문법 1개 + 유형별 선행 학습 노트 16개
 │  └─ cheatsheet.md                # Python 잡기술 한 줄 요약
 └─ review/
    ├─ queue.md                    # 간격 반복 큐

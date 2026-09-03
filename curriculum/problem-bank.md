@@ -16,7 +16,7 @@
 
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
-| L1 | 없는 숫자 더하기 | 86051 | https://school.programmers.co.kr/learn/courses/30/lessons/86051 | 월간 코드 챌린지 시즌3 | 미출제 |
+| L1 | 없는 숫자 더하기 | 86051 | https://school.programmers.co.kr/learn/courses/30/lessons/86051 | 월간 코드 챌린지 시즌3 | 사용중 |
 | L1 | 시저 암호 | 12926 | https://school.programmers.co.kr/learn/courses/30/lessons/12926 | 코딩테스트 연습 | 미출제 |
 | L1 | [카카오 인턴] 키패드 누르기 | 67256 | https://school.programmers.co.kr/learn/courses/30/lessons/67256 | 2020 카카오 인턴십 | 미출제 |
 | L1 | 신규 아이디 추천 | 72410 | https://school.programmers.co.kr/learn/courses/30/lessons/72410 | 2021 카카오 채용연계형 | 미출제 |
