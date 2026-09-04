@@ -7,6 +7,9 @@
 - `sys.stdin.readline` — 대량 입력에서 `input()`보다 빠름
 - `sys.stdin.read().split()` — 입력을 통째로 읽어야 할 때
 
+## 산술
+- `합공식 - 부분합` — "고정 범위에서 1개(또는 소수개) 빠진 원소 찾기"는 set 차집합보다 `sum(range(n)) - sum(arr)`가 더 가볍다
+
 ## 자료형
 - `x in set` 은 O(1), `x in list`는 O(N) — 존재 확인은 항상 set/dict
 - `deque.popleft()` — `list.pop(0)`는 O(N)이라 큐엔 절대 금지
