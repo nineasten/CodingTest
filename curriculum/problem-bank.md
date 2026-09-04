@@ -45,7 +45,7 @@
 
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
-| L1 | 완주하지 못한 선수 | 42576 | https://school.programmers.co.kr/learn/courses/30/lessons/42576 | 코딩테스트 고득점 Kit · 해시 | 미출제 |
+| L1 | 완주하지 못한 선수 | 42576 | https://school.programmers.co.kr/learn/courses/30/lessons/42576 | 코딩테스트 고득점 Kit · 해시 | 완료 |
 | L1 | 폰켓몬 | 1845 | https://school.programmers.co.kr/learn/courses/30/lessons/1845 | 코딩테스트 연습 · 해시 | 미출제 |
 | L2 | 의상 | 42578 | https://school.programmers.co.kr/learn/courses/30/lessons/42578 | 코딩테스트 고득점 Kit · 해시 | 미출제 |
 
