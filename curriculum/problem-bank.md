@@ -60,7 +60,7 @@
 
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
-| L2 | 프로세스 | 42587 | https://school.programmers.co.kr/learn/courses/30/lessons/42587 | 코딩테스트 고득점 Kit · 스택/큐 | 미출제 |
+| L2 | 프로세스 | 42587 | https://school.programmers.co.kr/learn/courses/30/lessons/42587 | 코딩테스트 고득점 Kit · 스택/큐 | 완료 |
 | L2 | 기능개발 | 42586 | https://school.programmers.co.kr/learn/courses/30/lessons/42586 | 코딩테스트 고득점 Kit · 스택/큐 | 미출제 |
 | L2 | 다리를 지나는 트럭 | 42583 | https://school.programmers.co.kr/learn/courses/30/lessons/42583 | 코딩테스트 고득점 Kit · 스택/큐 | 미출제 |
 | L2 | 두 큐 합 같게 만들기 | 118667 | https://school.programmers.co.kr/learn/courses/30/lessons/118667 | 2022 카카오 테크 인턴십 | 미출제 |
