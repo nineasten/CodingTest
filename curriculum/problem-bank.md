@@ -39,7 +39,7 @@
 
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
-| L2 | 튜플 | 64065 | https://school.programmers.co.kr/learn/courses/30/lessons/64065 | 2019 카카오 겨울 인턴십 | 미출제 |
+| L2 | 튜플 | 64065 | https://school.programmers.co.kr/learn/courses/30/lessons/64065 | 2019 카카오 겨울 인턴십 | 완료 |
 
 ## 해시
 
