@@ -104,7 +104,7 @@
 
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
-| L1 | 예산 | 12982 | https://school.programmers.co.kr/learn/courses/30/lessons/12982 | Summer/Winter Coding(~2018) | 미출제 |
+| L1 | 예산 | 12982 | https://school.programmers.co.kr/learn/courses/30/lessons/12982 | Summer/Winter Coding(~2018) | 완료 |
 | L3 | 입국심사 | 43238 | https://school.programmers.co.kr/learn/courses/30/lessons/43238 | 코딩테스트 고득점 Kit · 이분탐색 | 미출제 |
 
 ## DP

@@ -42,6 +42,7 @@
 
 ## 이분탐색
 - `bisect.bisect_left/right` — 직접 루프 안 짜도 되는 경우가 많음
+- `bisect.bisect_right(itertools.accumulate(sorted(arr)), 한도)` — "정렬 후 누적합이 한도를 넘지 않는 최대 개수"를 한 줄로 (예산류)
 
 ## DP
 - `functools.lru_cache` — 재귀 DP를 짧게. 인자는 불변 타입(튜플)이어야 캐시됨
