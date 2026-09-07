@@ -30,7 +30,7 @@
 
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
-| L2 | 아이템 줍기 | 87694 | https://school.programmers.co.kr/learn/courses/30/lessons/87694 | DFS/BFS (좌표평면) | 미출제 |
+| L2 | 아이템 줍기 | 87694 | https://school.programmers.co.kr/learn/courses/30/lessons/87694 | DFS/BFS (좌표평면) | 완료 |
 
 > 이 칸이 얇다 — 순수 격자 시뮬레이션(방향벡터·회전) 문제를 `/next` 첫 사용 시
 > 추가 검증해 보강할 것.
@@ -47,7 +47,7 @@
 |---|---|---|---|---|---|
 | L1 | 완주하지 못한 선수 | 42576 | https://school.programmers.co.kr/learn/courses/30/lessons/42576 | 코딩테스트 고득점 Kit · 해시 | 완료 |
 | L1 | 폰켓몬 | 1845 | https://school.programmers.co.kr/learn/courses/30/lessons/1845 | 코딩테스트 연습 · 해시 | 미출제 |
-| L2 | 의상 | 42578 | https://school.programmers.co.kr/learn/courses/30/lessons/42578 | 코딩테스트 고득점 Kit · 해시 | 미출제 |
+| L2 | 의상 | 42578 | https://school.programmers.co.kr/learn/courses/30/lessons/42578 | 코딩테스트 고득점 Kit · 해시 | 완료 |
 
 ## 정렬
 
@@ -84,7 +84,7 @@
 
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
-| L1 | 모의고사 | 42840 | https://school.programmers.co.kr/learn/courses/30/lessons/42840 | 코딩테스트 고득점 Kit · 완전탐색 | 미출제 |
+| L1 | 모의고사 | 42840 | https://school.programmers.co.kr/learn/courses/30/lessons/42840 | 코딩테스트 고득점 Kit · 완전탐색 | 완료 |
 | L2 | 소수 찾기 | 42839 | https://school.programmers.co.kr/learn/courses/30/lessons/42839 | 코딩테스트 고득점 Kit · 완전탐색 | 미출제 |
 | L2 | 카펫 | 42842 | https://school.programmers.co.kr/learn/courses/30/lessons/42842 | 코딩테스트 고득점 Kit · 완전탐색 | 미출제 |
 | L2 | 전력망을 둘로 나누기 | 86971 | https://school.programmers.co.kr/learn/courses/30/lessons/86971 | 완전탐색 | 미출제 |
