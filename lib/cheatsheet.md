@@ -28,6 +28,9 @@
 - `sum(1 for a, b in zip(...) if a == b)` — 조건부 카운트 (직접 루프 + 누적보다 한줄)
 - `[x for x in arr if condition]` — 필터링. `any(x in col for x in arr)` 로 "어떤 것이라도" 확인
 
+## 스택
+- `if not result or result[-1] != x: result.append(x)` — 연속 중복 제거 표준형 (스택 top과만 비교, 방향 상관없이 적용 가능)
+
 ## 정렬
 - `sorted(arr, key=lambda x: (-x[1], x[0]))` — 다중 기준 정렬
 - `functools.cmp_to_key` — "이어붙인 결과"로 비교해야 할 때 (가장 큰 수 유형)
