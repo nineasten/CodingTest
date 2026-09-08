@@ -21,6 +21,9 @@
 - `Counter(item for _, item in pairs)` — 제너레이터로 초기화 (의상처럼 "이름은 버리고 종류만" 경우)
 - `reduce(mul, values, 초기값)` — 연속 곱셈. `from functools import reduce; from operator import mul`
 
+## 조건문
+- `if x and x[-1] == val:` — "리스트가 비어있지 않고 마지막 원소가 조건 만족" 한 줄 결합 (빈 리스트 IndexError 방지 + 조건 체크 동시에)
+
 ## 루프 · 필터링
 - `sum(1 for a, b in zip(...) if a == b)` — 조건부 카운트 (직접 루프 + 누적보다 한줄)
 - `[x for x in arr if condition]` — 필터링. `any(x in col for x in arr)` 로 "어떤 것이라도" 확인
