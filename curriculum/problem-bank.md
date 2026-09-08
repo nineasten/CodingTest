@@ -40,7 +40,10 @@
 
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
+| L1 | 이상한 문자 만들기 | 12930 | https://school.programmers.co.kr/learn/courses/30/lessons/12930 | 코딩테스트 연습 | 완료 |
 | L2 | 튜플 | 64065 | https://school.programmers.co.kr/learn/courses/30/lessons/64065 | 2019 카카오 겨울 인턴십 | 완료 |
+
+> 2026-09-08 검증(WebFetch+WebSearch): 12930 = "이상한 문자 만들기", Lv.1 확인 완료.
 
 ## 해시
 
