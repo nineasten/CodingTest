@@ -54,7 +54,7 @@
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
 | L1 | 실패율 | 42889 | https://school.programmers.co.kr/learn/courses/30/lessons/42889 | 2019 카카오 채용연계형 | 완료 |
-| L2 | 가장 큰 수 | 42746 | https://school.programmers.co.kr/learn/courses/30/lessons/42746 | 코딩테스트 고득점 Kit · 정렬 | 사용중 |
+| L2 | 가장 큰 수 | 42746 | https://school.programmers.co.kr/learn/courses/30/lessons/42746 | 코딩테스트 고득점 Kit · 정렬 | 완료 |
 
 ## 스택 · 큐
 
