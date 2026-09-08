@@ -24,7 +24,7 @@
 | L1 | 성격 유형 검사하기 | 118666 | https://school.programmers.co.kr/learn/courses/30/lessons/118666 | 2022 카카오 테크 인턴십 | 미출제 |
 | L1-L2 | 카드 뭉치 | 159994 | https://school.programmers.co.kr/learn/courses/30/lessons/159994 | 코딩테스트 연습 | 미출제 |
 | L2 | [1차] 캐시 | 17680 | https://school.programmers.co.kr/learn/courses/30/lessons/17680 | 2018 카카오 채용연계형 | 미출제 |
-| L2 | 오픈채팅방 | 42888 | https://school.programmers.co.kr/learn/courses/30/lessons/42888 | 2019 카카오 채용연계형 | 미출제 |
+| L2 | 오픈채팅방 | 42888 | https://school.programmers.co.kr/learn/courses/30/lessons/42888 | 2019 카카오 채용연계형 | 완료 |
 
 ## 2D 격자
 
@@ -54,7 +54,7 @@
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
 | L1 | 실패율 | 42889 | https://school.programmers.co.kr/learn/courses/30/lessons/42889 | 2019 카카오 채용연계형 | 완료 |
-| L2 | 가장 큰 수 | 42746 | https://school.programmers.co.kr/learn/courses/30/lessons/42746 | 코딩테스트 고득점 Kit · 정렬 | 미출제 |
+| L2 | 가장 큰 수 | 42746 | https://school.programmers.co.kr/learn/courses/30/lessons/42746 | 코딩테스트 고득점 Kit · 정렬 | 사용중 |
 
 ## 스택 · 큐
 
