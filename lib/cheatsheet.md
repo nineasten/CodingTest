@@ -53,6 +53,11 @@
 ## DP
 - `functools.lru_cache` — 재귀 DP를 짧게. 인자는 불변 타입(튜플)이어야 캐시됨
 
+## 그래프 · BFS/DFS
+- 컴포넌트 개수 세기는 `visited` set 하나만 두고 `for i in range(n)`으로 전체를
+  훑는 게 표준형 — "미방문 집합"을 별도로 만들어 remove/next(iter)로 관리하면 코드만
+  늘어남 (네트워크류)
+
 ## 재귀 · 백트래킹
 - 개수를 세는 재귀는 `return dfs(...) + dfs(...)`로 반환값을 누적 — nonlocal 리스트에
   쌓고 나중에 세는 방식은 non-leaf의 암묵적 `None` 반환이 섞여 들어가는 등 부작용이
