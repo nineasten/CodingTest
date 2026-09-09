@@ -74,7 +74,7 @@
 
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
-| L2 | 더 맵게 | 42626 | https://school.programmers.co.kr/learn/courses/30/lessons/42626 | 코딩테스트 고득점 Kit · 힙 | 미출제 |
+| L2 | 더 맵게 | 42626 | https://school.programmers.co.kr/learn/courses/30/lessons/42626 | 코딩테스트 고득점 Kit · 힙 | 완료 |
 
 ## BFS · DFS
 
