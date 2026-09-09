@@ -81,7 +81,7 @@
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
 | L2 | 게임 맵 최단거리 | 1844 | https://school.programmers.co.kr/learn/courses/30/lessons/1844 | 코딩테스트 고득점 Kit · DFS/BFS | 완료 |
-| L2 | 타겟 넘버 | 43165 | https://school.programmers.co.kr/learn/courses/30/lessons/43165 | 코딩테스트 고득점 Kit · DFS/BFS | 미출제 |
+| L2 | 타겟 넘버 | 43165 | https://school.programmers.co.kr/learn/courses/30/lessons/43165 | 코딩테스트 고득점 Kit · DFS/BFS | 완료 |
 | L2 | 아이템 줍기 | 87694 | https://school.programmers.co.kr/learn/courses/30/lessons/87694 | DFS/BFS (좌표평면) | 미출제 |
 | L3 | 네트워크 | 43162 | https://school.programmers.co.kr/learn/courses/30/lessons/43162 | 코딩테스트 고득점 Kit · DFS/BFS | 미출제 |
 
