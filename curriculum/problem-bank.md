@@ -90,7 +90,7 @@
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
 | L1 | 모의고사 | 42840 | https://school.programmers.co.kr/learn/courses/30/lessons/42840 | 코딩테스트 고득점 Kit · 완전탐색 | 완료 |
-| L2 | 소수 찾기 | 42839 | https://school.programmers.co.kr/learn/courses/30/lessons/42839 | 코딩테스트 고득점 Kit · 완전탐색 | 미출제 |
+| L2 | 소수 찾기 | 42839 | https://school.programmers.co.kr/learn/courses/30/lessons/42839 | 코딩테스트 고득점 Kit · 완전탐색 | 완료 |
 | L2 | 카펫 | 42842 | https://school.programmers.co.kr/learn/courses/30/lessons/42842 | 코딩테스트 고득점 Kit · 완전탐색 | 미출제 |
 | L2 | 전력망을 둘로 나누기 | 86971 | https://school.programmers.co.kr/learn/courses/30/lessons/86971 | 완전탐색 | 미출제 |
 | L2-L3 | 이모티콘 할인행사 | 150368 | https://school.programmers.co.kr/learn/courses/30/lessons/150368 | 2023 카카오 채용연계형 | 미출제 |

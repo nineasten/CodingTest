@@ -62,6 +62,15 @@
   훑는 게 표준형 — "미방문 집합"을 별도로 만들어 remove/next(iter)로 관리하면 코드만
   늘어남 (네트워크류)
 
+## 수학
+- 소수 판정은 `range(2, int(x**0.5) + 1)` — `range(2, x)`로 짜면 x가 커질수록
+  O(x)라 시간초과. `all(x % i for i in ...)`로 한 줄.
+
+## 완전탐색
+- `{int(''.join(p)) for i in range(1, len(s)+1) for p in permutations(s, i)}` —
+  길이가 다른 순열끼리 선행 0 때문에 같은 값이 되는 경우까지 set comprehension
+  하나로 중복 제거 (소수 찾기류)
+
 ## 재귀 · 백트래킹
 - 개수를 세는 재귀는 `return dfs(...) + dfs(...)`로 반환값을 누적 — nonlocal 리스트에
   쌓고 나중에 세는 방식은 non-leaf의 암묵적 `None` 반환이 섞여 들어가는 등 부작용이
