@@ -9,17 +9,22 @@
 # ─────────────────────────────────────────────────────────
 
 # [1, 1, 1, 1, 1]	3	5
+from collections import deque
+
+
+
 def solution(numbers, target):
     
-    def dfs(cur, i):
+    results = []
+    def func(pre, i):
 
-        if i == len(numbers):
-            return 1 if cur == target else 0
+        if i == len(numbers) - 1:
+            return
 
-        return dfs(cur + numbers[i], i + 1) + dfs(cur - numbers[i], i + 1)
+        i += 1
+        results.extend([func((pre + numbers[i]), i),func((pre - numbers[i]), i)])
+
     
-    return dfs(0, 0)
-
-print(solution([1, 1, 1, 1, 1], 3))
+    pass
 
 

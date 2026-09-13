@@ -22,7 +22,7 @@
 | L1 | 신규 아이디 추천 | 72410 | https://school.programmers.co.kr/learn/courses/30/lessons/72410 | 2021 카카오 채용연계형 | 미출제 |
 | L1 | 신고 결과 받기 | 92334 | https://school.programmers.co.kr/learn/courses/30/lessons/92334 | 2022 카카오 채용연계형 | 미출제 |
 | L1 | 성격 유형 검사하기 | 118666 | https://school.programmers.co.kr/learn/courses/30/lessons/118666 | 2022 카카오 테크 인턴십 | 미출제 |
-| L1-L2 | 카드 뭉치 | 159994 | https://school.programmers.co.kr/learn/courses/30/lessons/159994 | 코딩테스트 연습 | 미출제 |
+| L1-L2 | 카드 뭉치 | 159994 | https://school.programmers.co.kr/learn/courses/30/lessons/159994 | 코딩테스트 연습 | 완료 |
 | L2 | [1차] 캐시 | 17680 | https://school.programmers.co.kr/learn/courses/30/lessons/17680 | 2018 카카오 채용연계형 | 미출제 |
 | L2 | 오픈채팅방 | 42888 | https://school.programmers.co.kr/learn/courses/30/lessons/42888 | 2019 카카오 채용연계형 | 완료 |
 

@@ -16,6 +16,7 @@
 ## 자료형
 - `x in set` 은 O(1), `x in list`는 O(N) — 존재 확인은 항상 set/dict
 - `deque.popleft()` — `list.pop(0)`는 O(N)이라 큐엔 절대 금지
+- 배열 슬라이싱 `arr = arr[1:]`은 O(n) → 포인터로 `i += 1` 추적하고 `arr[i]`로 접근 (카드 뭉치류처럼 순차 처리는 O(1) 추적만으로 충분)
 - `Counter(a) - Counter(b)` — 이쪽에만 있는 것 찾기 (음수 결과는 버려짐)
 - `next(iter(counter_or_dict))` — 딱 1개만 남는 게 보장될 때 루프 없이 바로 꺼내기
 - `Counter(item for _, item in pairs)` — 제너레이터로 초기화 (의상처럼 "이름은 버리고 종류만" 경우)

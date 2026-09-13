@@ -12,29 +12,26 @@
 # ─────────────────────────────────────────────────────────
 
 # "4177252841"	4	"775841"
-from collections import deque
 
 def solution(number, k):
-
-    q = deque(number)
-    store = []
-    n_del = 0
     
-    while n_del < k:
-        if store and store[-1] < q[0]:
-            store.pop()
-            n_del += 1
-            continue
+    stack = []
+    operation = 0
+    for n in number:
         
-        store.append(q.popleft())
+        while stack and operation < k and stack[-1] < n:
+            operation += 1
+            stack.pop()
         
-        if not q:
-            store.pop()
-            n_del += 1
-            continue
+        stack.append(n)
         
-        if store[-1] < q[0]:
-            store.pop()
-            n_del += 1
+    if operation < k:
+        return ''.join(stack[:-(k - operation)])
     
-    return ''.join(store + list(q))
+    else:
+        return ''.join(stack)
+        
+    
+        
+            
+print(solution("4177252841", 4))
