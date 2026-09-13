@@ -102,10 +102,11 @@
 |---|---|---|---|---|---|
 | L1 | 과일 장수 | 135808 | https://school.programmers.co.kr/learn/courses/30/lessons/135808 | 코딩테스트 연습 · 탐욕법 | 완료 |
 | L2 | 큰 수 만들기 | 42883 | https://school.programmers.co.kr/learn/courses/30/lessons/42883 | 코딩테스트 고득점 Kit · 탐욕법 | 완료 |
+| L2 | 구명보트 | 42885 | https://school.programmers.co.kr/learn/courses/30/lessons/42885 | 코딩테스트 고득점 Kit · 탐욕법 | 완료 |
 
 > 2026-09-10 검증(WebFetch): 135808 = "과일 장수" 확인 완료(k,m,score 제약 확인).
-> 이 칸도 얇다 — 조이스틱(42860)·구명보트(42885)·단속카메라(42884) 등을 다음
-> 세션에서 검증해 추가할 것.
+> 2026-09-13 검증(WebFetch): 42885 = "구명보트" 확인 완료(people, limit 제약 확인).
+> 조이스틱(42860)·단속카메라(42884) 등을 다음 세션에서 검증해 추가할 것.
 
 ## 이분탐색
 
