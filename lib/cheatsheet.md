@@ -70,6 +70,12 @@
 ## 수학
 - 소수 판정은 `range(2, int(x**0.5) + 1)` — `range(2, x)`로 짜면 x가 커질수록
   O(x)라 시간초과. `all(x % i for i in ...)`로 한 줄.
+- `(a + b - 1) // b` — 올림 나눗셈(ceil division)을 정수 연산만으로. `a//b + 1`은
+  나머지가 0일 때 오프바이원 버그(실제보다 1 크게 계산)가 남 (기능개발류)
+
+## 루프 · 필터링 (그룹핑)
+- `[len(list(g)) for _, g in itertools.groupby(arr)]` — 연속 동일값 그룹 크기 리스트.
+  deque + 이중 while로 직접 짜는 것보다 짧음 (기능개발류)
 
 ## 완전탐색
 - `{int(''.join(p)) for i in range(1, len(s)+1) for p in permutations(s, i)}` —

@@ -19,6 +19,9 @@ def solution(cards1, cards2, goal):
             i += 1
         elif j < len(cards2) and cards2[i] == word:
             j += 1
+        else:
+            return "No"
+        
     return "Yes"
 
 print(solution(["i", "drink", "water"], ["want", "to"], ["i", "want", "to", "drink", "water"]))
