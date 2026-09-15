@@ -119,7 +119,7 @@
 
 | 난이도 | 제목 | ID | URL | 카테고리(출처) | 상태 |
 |---|---|---|---|---|---|
-| L2 | 피보나치 수 | 12945 | https://school.programmers.co.kr/learn/courses/30/lessons/12945 | 코딩테스트 연습 · DP | 미출제 |
+| L2 | 피보나치 수 | 12945 | https://school.programmers.co.kr/learn/courses/30/lessons/12945 | 코딩테스트 연습 · DP | 완료 |
 | L3 | 정수 삼각형 | 43105 | https://school.programmers.co.kr/learn/courses/30/lessons/43105 | 코딩테스트 고득점 Kit · DP | 미출제 |
 | L3 | 땅따먹기 | 12913 | https://school.programmers.co.kr/learn/courses/30/lessons/12913 | 코딩테스트 연습 · DP | 미출제 |
 
