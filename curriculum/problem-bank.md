@@ -33,9 +33,10 @@
 | L1 | 크레인 인형뽑기 게임 | 64061 | https://school.programmers.co.kr/learn/courses/30/lessons/64061 | 2019 카카오 개발자 겨울 인턴십 | 완료 |
 | L2 | 아이템 줍기 | 87694 | https://school.programmers.co.kr/learn/courses/30/lessons/87694 | DFS/BFS (좌표평면) | 완료 |
 | L2 | 행렬 테두리 회전하기 | 77485 | https://school.programmers.co.kr/learn/courses/30/lessons/77485 | 2021 Dev-Matching 백엔드(상반기) | 완료 |
+| L2 | 삼각 달팽이 | 68645 | https://school.programmers.co.kr/learn/courses/30/lessons/68645 | 코딩테스트 연습 | 완료 |
 
 > 2026-09-08 검증(WebFetch): 64061 = "크레인 인형뽑기 게임" 확인 완료.
-> 순수 방향벡터·회전 시뮬레이션 문제는 여전히 얇음 — 다음 세션에서 추가 검증할 것.
+> 2026-09-15 검증(WebFetch): 68645 = "삼각 달팽이" 확인 완료 (n ≤ 1000).
 
 ## 문자열 파싱
 
@@ -115,6 +116,9 @@
 |---|---|---|---|---|---|
 | L1 | 예산 | 12982 | https://school.programmers.co.kr/learn/courses/30/lessons/12982 | Summer/Winter Coding(~2018) | 완료 |
 | L3 | 입국심사 | 43238 | https://school.programmers.co.kr/learn/courses/30/lessons/43238 | 코딩테스트 고득점 Kit · 이분탐색 | 미출제 |
+| L2 | 순위 검색 | 72412 | https://school.programmers.co.kr/learn/courses/30/lessons/72412 | 2019 카카오 개발자 겨울 인턴십 | 완료 |
+
+> 2026-09-15 검증(WebFetch): 72412 = "순위 검색" 확인 완료 (info ≤50,000, query ≤100,000).
 
 ## DP
 
