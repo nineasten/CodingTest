@@ -32,6 +32,7 @@
 |---|---|---|---|---|---|
 | L1 | 크레인 인형뽑기 게임 | 64061 | https://school.programmers.co.kr/learn/courses/30/lessons/64061 | 2019 카카오 개발자 겨울 인턴십 | 완료 |
 | L2 | 아이템 줍기 | 87694 | https://school.programmers.co.kr/learn/courses/30/lessons/87694 | DFS/BFS (좌표평면) | 완료 |
+| L2 | 행렬 테두리 회전하기 | 77485 | https://school.programmers.co.kr/learn/courses/30/lessons/77485 | 2021 Dev-Matching 백엔드(상반기) | 완료 |
 
 > 2026-09-08 검증(WebFetch): 64061 = "크레인 인형뽑기 게임" 확인 완료.
 > 순수 방향벡터·회전 시뮬레이션 문제는 여전히 얇음 — 다음 세션에서 추가 검증할 것.
